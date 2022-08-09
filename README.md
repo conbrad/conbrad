@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on wildfire prediction: https://github.com/bcgov/wps
+- 🔭 I’m currently working on 🔥 prediction: https://github.com/bcgov/wps
 
 <!--
 **conbrad/conbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
